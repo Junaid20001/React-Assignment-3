@@ -1,0 +1,24 @@
+.Main {
+  display: flex;
+  flex-direction: row;
+  justify-content: ;
+}
+.Header {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  border: 2px blue;
+  background-color: red;
+  width: 250px;
+  height: 400px;
+}
+.Body {
+  width: 500px;
+  height: 400px;
+  background-color: bisque;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+}
